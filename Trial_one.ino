@@ -31,8 +31,8 @@ void thirdLightChanged(uint8_t brightness);
 void fourthLightChanged(uint8_t brightness);
 
 // WiFi Credentials
-const char* ssid = "Hare krishna";
-const char* password = "khushal@252002";
+const char* ssid = "wifiID";
+const char* password = "WifiPswrd";
 
 // device names
 String Device_1_Name = "Bulb one";
